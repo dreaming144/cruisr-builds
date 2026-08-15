@@ -151,5 +151,22 @@
     "description": "Provider integration",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
+  },
+  {
+    "name": "TNAFlix",
+    "internalName": "TNAFlix",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Provider integration",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
   }
 ]
