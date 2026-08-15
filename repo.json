@@ -1,0 +1,8 @@
+{
+  "name": "cruisr",
+  "description": "Extension collection for CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/plugins.json"
+  ]
+}
