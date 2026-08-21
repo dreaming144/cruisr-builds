@@ -236,5 +236,56 @@
     "description": "Gay0Day KT tube \u2014 get_file playback",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
+  },
+  {
+    "name": "HentaiMama",
+    "internalName": "HentaiMama",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HentaiMama.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "HentaiMama \u2014 Recent/Monthly/Uncensored/Series",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "HStream",
+    "internalName": "HStream",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HStream.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "HStream \u2014 recently uploaded/released/most viewed",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "Yaoi",
+    "internalName": "Yaoi",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Yaoi \u2014 HentaiMama-backed yaoi/bara/BL menus",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
   }
 ]
