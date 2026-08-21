@@ -3,7 +3,7 @@
     "name": "XvideosGay",
     "internalName": "XvideosGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/XvideosGay.cs3",
-    "version": 9,
+    "version": 11,
     "status": 1,
     "language": "en",
     "authors": [
@@ -20,7 +20,7 @@
     "name": "GayStream",
     "internalName": "GayStream",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/GayStream.cs3",
-    "version": 11,
+    "version": 12,
     "status": 1,
     "language": "en",
     "authors": [
@@ -37,7 +37,7 @@
     "name": "EPornerGay",
     "internalName": "EPornerGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/EPornerGay.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -54,7 +54,7 @@
     "name": "Homo",
     "internalName": "Homo",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Homo.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -71,7 +71,7 @@
     "name": "IceGayTube",
     "internalName": "IceGayTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/IceGayTube.cs3",
-    "version": 12,
+    "version": 15,
     "status": 1,
     "language": "en",
     "authors": [
@@ -88,7 +88,7 @@
     "name": "BoyfriendTV",
     "internalName": "BoyfriendTV",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/BoyfriendTV.cs3",
-    "version": 12,
+    "version": 13,
     "status": 0,
     "language": "en",
     "authors": [
@@ -105,7 +105,7 @@
     "name": "GayMaleTube",
     "internalName": "GayMaleTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/GayMaleTube.cs3",
-    "version": 11,
+    "version": 12,
     "status": 1,
     "language": "en",
     "authors": [
@@ -122,7 +122,7 @@
     "name": "MachoTube",
     "internalName": "MachoTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/MachoTube.cs3",
-    "version": 3,
+    "version": 4,
     "status": 1,
     "language": "en",
     "authors": [
@@ -139,7 +139,7 @@
     "name": "XNXX Gay",
     "internalName": "XnxxGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/XnxxGay.cs3",
-    "version": 3,
+    "version": 4,
     "status": 1,
     "language": "en",
     "authors": [
@@ -156,7 +156,7 @@
     "name": "TNAFlix",
     "internalName": "TNAFlix",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
-    "version": 5,
+    "version": 6,
     "status": 1,
     "language": "en",
     "authors": [
@@ -173,7 +173,7 @@
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
-    "version": 3,
+    "version": 6,
     "status": 1,
     "language": "en",
     "authors": [
@@ -183,6 +183,57 @@
       "NSFW"
     ],
     "description": "ThisVid public HTTP KT player extract",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "JustTheGays",
+    "internalName": "JustTheGays",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/JustTheGays.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "JustTheGays WordPress tube \u2014 direct MP4 sources",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "ManSurfer",
+    "internalName": "ManSurfer",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ManSurfer.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "ManSurfer \u2014 free trailers + related",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "Gay0Day",
+    "internalName": "Gay0Day",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Gay0Day.cs3",
+    "version": 2,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Gay0Day KT tube \u2014 get_file playback",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   }
