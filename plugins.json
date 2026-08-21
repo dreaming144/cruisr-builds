@@ -20,7 +20,7 @@
     "name": "GayStream",
     "internalName": "GayStream",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/GayStream.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -71,7 +71,7 @@
     "name": "IceGayTube",
     "internalName": "IceGayTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/IceGayTube.cs3",
-    "version": 10,
+    "version": 11,
     "status": 1,
     "language": "en",
     "authors": [
@@ -88,7 +88,7 @@
     "name": "BoyfriendTV",
     "internalName": "BoyfriendTV",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/BoyfriendTV.cs3",
-    "version": 10,
+    "version": 11,
     "status": 0,
     "language": "en",
     "authors": [
@@ -105,7 +105,7 @@
     "name": "GayMaleTube",
     "internalName": "GayMaleTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/GayMaleTube.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -156,7 +156,7 @@
     "name": "TNAFlix",
     "internalName": "TNAFlix",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
-    "version": 3,
+    "version": 4,
     "status": 1,
     "language": "en",
     "authors": [
@@ -166,6 +166,23 @@
       "NSFW"
     ],
     "description": "Provider integration",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "ThisVid",
+    "internalName": "ThisVid",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
+    "version": 2,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "ThisVid public HTTP KT player extract",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   }
