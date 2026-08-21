@@ -258,7 +258,7 @@
     "name": "HStream",
     "internalName": "HStream",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HStream.cs3",
-    "version": 1,
+    "version": 2,
     "status": 1,
     "language": "en",
     "authors": [
@@ -267,7 +267,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "HStream \u2014 recently uploaded/released/most viewed",
+    "description": "HStream \u2014 CSRF-hardened player/api CDN extract",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -275,7 +275,7 @@
     "name": "Yaoi",
     "internalName": "Yaoi",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
-    "version": 1,
+    "version": 2,
     "status": 1,
     "language": "en",
     "authors": [
@@ -284,7 +284,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Yaoi \u2014 HentaiMama-backed yaoi/bara/BL menus",
+    "description": "Yaoi \u2014 expanded yaoi/bara/BL/male-only menus",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   }
