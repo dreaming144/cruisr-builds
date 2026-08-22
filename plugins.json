@@ -241,7 +241,7 @@
     "name": "HentaiMama",
     "internalName": "HentaiMama",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HentaiMama.cs3",
-    "version": 1,
+    "version": 2,
     "status": 1,
     "language": "en",
     "authors": [
@@ -250,7 +250,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "HentaiMama \u2014 Recent/Monthly/Uncensored/Series",
+    "description": "HentaiMama \u2014 Recent/Monthly/Uncensored/Series (CF jsd false-positive fixed)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
