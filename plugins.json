@@ -275,7 +275,7 @@
     "name": "Yaoi",
     "internalName": "Yaoi",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
-    "version": 5,
+    "version": 6,
     "status": 1,
     "language": "en",
     "authors": [
@@ -284,7 +284,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Yaoi \u2014 Zhentube (FirePlayer HLS) + HentaiStream classics + Xvideos volume",
+    "description": "Yaoi \u2014 Zhentube FirePlayer (stable /hls/ variants) + HentaiStream + Xvideos",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   }
