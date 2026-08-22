@@ -54,7 +54,7 @@
     "name": "Homo",
     "internalName": "Homo",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Homo.cs3",
-    "version": 10,
+    "version": 11,
     "status": 1,
     "language": "en",
     "authors": [
@@ -63,7 +63,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Provider integration",
+    "description": "Homo \u2014 pagination + group shuffle + TitleTranslate",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -71,7 +71,7 @@
     "name": "IceGayTube",
     "internalName": "IceGayTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/IceGayTube.cs3",
-    "version": 15,
+    "version": 16,
     "status": 1,
     "language": "en",
     "authors": [
@@ -80,7 +80,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Provider integration",
+    "description": "IceGayTube \u2014 pagination fixed, group shuffle, TitleTranslate",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -173,7 +173,7 @@
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
-    "version": 6,
+    "version": 7,
     "status": 1,
     "language": "en",
     "authors": [
@@ -182,7 +182,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "ThisVid public HTTP KT player extract",
+    "description": "ThisVid \u2014 group shuffle + TitleTranslate",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -190,7 +190,7 @@
     "name": "JustTheGays",
     "internalName": "JustTheGays",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/JustTheGays.cs3",
-    "version": 1,
+    "version": 2,
     "status": 1,
     "language": "en",
     "authors": [
@@ -199,7 +199,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "JustTheGays WordPress tube \u2014 direct MP4 sources",
+    "description": "JustTheGays \u2014 group shuffle + TitleTranslate",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -224,23 +224,6 @@
     "name": "Gay0Day",
     "internalName": "Gay0Day",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Gay0Day.cs3",
-    "version": 2,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "cruisr"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "description": "Gay0Day KT tube \u2014 get_file playback",
-    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
-    "apiVersion": 1
-  },
-  {
-    "name": "HentaiMama",
-    "internalName": "HentaiMama",
-    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HentaiMama.cs3",
     "version": 3,
     "status": 1,
     "language": "en",
@@ -250,7 +233,24 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "HentaiMama \u2014 optional TitleTranslate on detail title/plot",
+    "description": "Gay0Day \u2014 group shuffle + TitleTranslate",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "HentaiMama",
+    "internalName": "HentaiMama",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HentaiMama.cs3",
+    "version": 4,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "HentaiMama \u2014 TitleTranslate + group shuffle",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
