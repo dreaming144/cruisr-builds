@@ -1,6 +1,6 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "3327f58ed8bd13d32255b18142fba98c6a787d55",
+  "sourceSha": "3ca53abdffbfc5e0e8eef7a168ea68be7ba95042",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
   "artifactCount": 17,
