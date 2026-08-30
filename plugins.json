@@ -3,7 +3,7 @@
     "name": "XvideosGay",
     "internalName": "XvideosGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/XvideosGay.cs3",
-    "version": 15,
+    "version": 16,
     "status": 1,
     "language": "en",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "XvideosGay \u2014 CatalogHome, amateur/POV rows, ?k= paging, THUMBNUM posters",
+    "description": "XvideosGay \u2014 THUMBNUM poster rewrite, video_related more-like-this, splash metadata",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -224,7 +224,7 @@
     "name": "Yaoi",
     "internalName": "Yaoi",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -233,7 +233,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Yaoi \u2014 recommendations on Zhentube/HentaiStream/Xvideos + FirePlayer HLS",
+    "description": "Yaoi \u2014 Classics (HentaiStream) genreDesc posters + Zhentube data-main-thumb + Xvideos",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
