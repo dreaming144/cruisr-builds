@@ -3,7 +3,7 @@
     "name": "XvideosGay",
     "internalName": "XvideosGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/XvideosGay.cs3",
-    "version": 16,
+    "version": 17,
     "status": 1,
     "language": "en",
     "authors": [
@@ -12,7 +12,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "XvideosGay \u2014 THUMBNUM poster rewrite, video_related more-like-this, splash metadata",
+    "description": "XvideosGay \u2014 THUMBNUM poster rewrite, video_related more-like-this, splash metadata \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -20,7 +20,7 @@
     "name": "GayStream",
     "internalName": "GayStream",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/GayStream.cs3",
-    "version": 16,
+    "version": 17,
     "status": 1,
     "language": "en",
     "authors": [
@@ -29,7 +29,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "GayStream \u2014 CatalogHome, amateur/POV rows, search-row paging, recommendations",
+    "description": "GayStream \u2014 CatalogHome, amateur/POV rows, search-row paging, recommendations \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -37,23 +37,6 @@
     "name": "EPornerGay",
     "internalName": "EPornerGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/EPornerGay.cs3",
-    "version": 14,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "cruisr"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "description": "EPornerGay \u2014 CatalogHome, paged search, recommendations, amateur rows",
-    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
-    "apiVersion": 1
-  },
-  {
-    "name": "Homo",
-    "internalName": "Homo",
-    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Homo.cs3",
     "version": 15,
     "status": 1,
     "language": "en",
@@ -63,15 +46,15 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Homo \u2014 CatalogHome, /new/2/ scroll, KVS get_file, amateur/POV rows",
+    "description": "EPornerGay \u2014 CatalogHome, paged search, recommendations, amateur rows \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
   {
-    "name": "IceGayTube",
-    "internalName": "IceGayTube",
-    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/IceGayTube.cs3",
-    "version": 21,
+    "name": "Homo",
+    "internalName": "Homo",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Homo.cs3",
+    "version": 16,
     "status": 1,
     "language": "en",
     "authors": [
@@ -80,7 +63,24 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "IceGayTube \u2014 CatalogHome + ?page= scroll + amateur/POV categories + AE resign",
+    "description": "Homo \u2014 CatalogHome, /new/2/ scroll, KVS get_file, amateur/POV rows \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "IceGayTube",
+    "internalName": "IceGayTube",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/IceGayTube.cs3",
+    "version": 22,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "IceGayTube \u2014 CatalogHome + ?page= scroll + amateur/POV categories + AE resign \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -88,7 +88,7 @@
     "name": "BoyfriendTV",
     "internalName": "BoyfriendTV",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/BoyfriendTV.cs3",
-    "version": 17,
+    "version": 18,
     "status": 0,
     "language": "en",
     "authors": [
@@ -97,7 +97,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "BoyfriendTV \u2014 CF-blocked (status 0); POV/webcam search rows + CatalogHome when HTTP succeeds",
+    "description": "BoyfriendTV \u2014 CF-blocked (status 0); POV/webcam search rows + CatalogHome when HTTP succeeds \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -105,7 +105,7 @@
     "name": "GayMaleTube",
     "internalName": "GayMaleTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/GayMaleTube.cs3",
-    "version": 15,
+    "version": 16,
     "status": 1,
     "language": "en",
     "authors": [
@@ -114,7 +114,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "GayMaleTube \u2014 /new Latest + Popular Categories + live /cat/ and /popular rows",
+    "description": "GayMaleTube \u2014 /new Latest + Popular Categories + live /cat/ and /popular rows \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -122,7 +122,7 @@
     "name": "MachoTube",
     "internalName": "MachoTube",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/MachoTube.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -131,7 +131,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "MachoTube \u2014 AE HLS as M3U8 + /ah/sign resign",
+    "description": "MachoTube \u2014 AE HLS as M3U8 + /ah/sign resign \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -139,7 +139,7 @@
     "name": "XNXX Gay",
     "internalName": "XnxxGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/XnxxGay.cs3",
-    "version": 9,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -148,7 +148,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "XNXX Gay \u2014 CatalogHome + html5player regex + THUMBNUM posters",
+    "description": "XNXX Gay \u2014 CatalogHome + html5player regex + THUMBNUM posters \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -156,7 +156,7 @@
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
-    "version": 11,
+    "version": 12,
     "status": 1,
     "language": "en",
     "authors": [
@@ -165,7 +165,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "ThisVid \u2014 CatalogHome + TitleTranslate",
+    "description": "ThisVid \u2014 CatalogHome + TitleTranslate \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -173,7 +173,7 @@
     "name": "JustTheGays",
     "internalName": "JustTheGays",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/JustTheGays.cs3",
-    "version": 7,
+    "version": 8,
     "status": 1,
     "language": "en",
     "authors": [
@@ -182,7 +182,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "JustTheGays \u2014 lazy data-src / data-srcset posters + CatalogHome",
+    "description": "JustTheGays \u2014 lazy data-src / data-srcset posters + CatalogHome \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -190,23 +190,6 @@
     "name": "ManSurfer",
     "internalName": "ManSurfer",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ManSurfer.cs3",
-    "version": 5,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "cruisr"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "description": "ManSurfer \u2014 CatalogHome + cruisrBestPoster + TitleTranslate",
-    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
-    "apiVersion": 1
-  },
-  {
-    "name": "Gay0Day",
-    "internalName": "Gay0Day",
-    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Gay0Day.cs3",
     "version": 6,
     "status": 1,
     "language": "en",
@@ -216,7 +199,24 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Gay0Day \u2014 CatalogHome (clear/dedupe/shuffle) + TitleTranslate",
+    "description": "ManSurfer \u2014 CatalogHome + cruisrBestPoster + TitleTranslate \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "Gay0Day",
+    "internalName": "Gay0Day",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Gay0Day.cs3",
+    "version": 7,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Gay0Day \u2014 CatalogHome (clear/dedupe/shuffle) + TitleTranslate \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -241,7 +241,7 @@
     "name": "Motherless",
     "internalName": "Motherless",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Motherless.cs3",
-    "version": 1,
+    "version": 2,
     "status": 1,
     "language": "en",
     "authors": [
@@ -250,7 +250,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Motherless \u2014 gay-first amateur / anon uploads + CatalogHome + TitleTranslate",
+    "description": "Motherless \u2014 gay-first amateur / anon uploads + CatalogHome + TitleTranslate \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -258,7 +258,7 @@
     "name": "SpankBang Gay",
     "internalName": "SpankBangGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/SpankBangGay.cs3",
-    "version": 2,
+    "version": 3,
     "status": 0,
     "language": "en",
     "authors": [
@@ -267,7 +267,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "SpankBang Gay \u2014 /s/gay/?o=new + popular chips; hidden while CF challenges",
+    "description": "SpankBang Gay \u2014 /s/gay/?o=new + popular chips; hidden while CF challenges \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -292,7 +292,7 @@
     "name": "TNAFlix",
     "internalName": "TNAFlix",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
-    "version": 10,
+    "version": 11,
     "status": 1,
     "language": "en",
     "authors": [
@@ -301,7 +301,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "TNAFlix \u2014 CatalogHome + TitleTranslate",
+    "description": "TNAFlix \u2014 CatalogHome + TitleTranslate \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
