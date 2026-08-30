@@ -1,13 +1,13 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "76bfc11aa9dd5f64b26ee83c7ab037b7d539a891",
+  "sourceSha": "d11f149131f0602fe0f1fefd75dfb6b7b2ce080f",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
-  "artifactCount": 17,
+  "artifactCount": 20,
   "artifacts": [
     {
       "name": "BoyfriendTV.cs3",
-      "sha256": "7f8a1ab8256f7033c56c3dcb4642da55b8b9796330baedece9203a7466ba4638"
+      "sha256": "81978182a9511b85a751cea0ca17efaba3403a174754ea32d4765880fb0ebd22"
     },
     {
       "name": "EPornerGay.cs3",
@@ -28,6 +28,10 @@
     {
       "name": "HStream.cs3",
       "sha256": "61582984a30886d063c61c1b957a25fd3af7042d3ff1942076d387cb6f517056"
+    },
+    {
+      "name": "Hanime.cs3",
+      "sha256": "c7b7a2b834fab0c3fd95bd19f6a8cdd06c76b2bba2f2355a62cd5dc94f31e8ef"
     },
     {
       "name": "HentaiMama.cs3",
@@ -54,6 +58,14 @@
       "sha256": "a9c9ede71c61231ddb5a009e63c4f5bcffa7ccbedfecc4f9dc272ef7184470ca"
     },
     {
+      "name": "Motherless.cs3",
+      "sha256": "57fca9f63160926d9dd1364a2d3fea916fc328d7daafd16ad5787520d0d39c10"
+    },
+    {
+      "name": "SpankBangGay.cs3",
+      "sha256": "24d26f89cfda8a92209e72774e974f1fa065e27b974126a47a84aa4bec26921e"
+    },
+    {
       "name": "TNAFlix.cs3",
       "sha256": "a0fe14a1b3249b9fcfc3e99928aa92f0dde512d246fb758680580f2112aa498b"
     },
@@ -74,5 +86,5 @@
       "sha256": "7b994ad439530e8efaa21d9f127cefb3922a123e8c59ac25d86feff326584440"
     }
   ],
-  "publishedAt": "2026-08-30T07:30:32Z"
+  "publishedAt": "2026-08-30T07:38:53Z"
 }

@@ -88,8 +88,8 @@
     "name": "BoyfriendTV",
     "internalName": "BoyfriendTV",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/BoyfriendTV.cs3",
-    "version": 14,
-    "status": 0,
+    "version": 15,
+    "status": 1,
     "language": "en",
     "authors": [
       "cruisr"
@@ -97,7 +97,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Provider integration",
+    "description": "BoyfriendTV \u2014 CatalogHome + TitleTranslate + KVS get_file",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -234,6 +234,57 @@
       "NSFW"
     ],
     "description": "Yaoi \u2014 Zhentube FirePlayer (stable /hls/ variants) + HentaiStream + Xvideos",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "Motherless",
+    "internalName": "Motherless",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Motherless.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Motherless \u2014 gay-first amateur / anon uploads + CatalogHome + TitleTranslate",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "SpankBang Gay",
+    "internalName": "SpankBangGay",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/SpankBangGay.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "SpankBang Gay \u2014 /s/gay/ first + CatalogHome + TitleTranslate",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "Hanime",
+    "internalName": "Hanime",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Hanime.cs3",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Hanime \u2014 yaoi/bara series catalog + TitleTranslate (not a het browser)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
