@@ -1,6 +1,6 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "85dfe67313975b6a305970b916332a2805e64fec",
+  "sourceSha": "7c036764082182de0b97d9912a90fb3c4680e6ed",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
   "artifactCount": 17,
@@ -55,7 +55,7 @@
     },
     {
       "name": "TNAFlix.cs3",
-      "sha256": "70b2fbcdaaf6da675ac4e0db0b8238e3eb4c517530ee2f6e6ffcbb68e89776ae"
+      "sha256": "a0fe14a1b3249b9fcfc3e99928aa92f0dde512d246fb758680580f2112aa498b"
     },
     {
       "name": "ThisVid.cs3",
@@ -71,8 +71,8 @@
     },
     {
       "name": "Yaoi.cs3",
-      "sha256": "d3f7d3a4df690c7ebffdc3d8c77e30fcfc18fe89db01ebab9dd93feb79c36adf"
+      "sha256": "7b994ad439530e8efaa21d9f127cefb3922a123e8c59ac25d86feff326584440"
     }
   ],
-  "publishedAt": "2026-08-30T07:09:58Z"
+  "publishedAt": "2026-08-30T07:24:55Z"
 }

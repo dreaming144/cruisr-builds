@@ -153,23 +153,6 @@
     "apiVersion": 1
   },
   {
-    "name": "TNAFlix",
-    "internalName": "TNAFlix",
-    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
-    "version": 9,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "cruisr"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "description": "TNAFlix \u2014 CatalogHome + TitleTranslate",
-    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
-    "apiVersion": 1
-  },
-  {
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
@@ -238,6 +221,40 @@
     "apiVersion": 1
   },
   {
+    "name": "Yaoi",
+    "internalName": "Yaoi",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
+    "version": 8,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "Yaoi \u2014 Zhentube FirePlayer (stable /hls/ variants) + HentaiStream + Xvideos",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "TNAFlix",
+    "internalName": "TNAFlix",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
+    "version": 10,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "TNAFlix \u2014 CatalogHome + TitleTranslate",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
     "name": "HentaiMama",
     "internalName": "HentaiMama",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HentaiMama.cs3",
@@ -268,23 +285,6 @@
       "NSFW"
     ],
     "description": "HStream \u2014 CSRF player/api + optional TitleTranslate",
-    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
-    "apiVersion": 1
-  },
-  {
-    "name": "Yaoi",
-    "internalName": "Yaoi",
-    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
-    "version": 7,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "cruisr"
-    ],
-    "tvTypes": [
-      "NSFW"
-    ],
-    "description": "Yaoi \u2014 Zhentube FirePlayer (stable /hls/ variants) + HentaiStream + Xvideos",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   }
