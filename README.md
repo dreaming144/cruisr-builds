@@ -8,4 +8,4 @@ Published extension artifacts and repository metadata.
 
 
 
-Built from commit: 8b2f8898ab1c841ed4631e3b811ff9b6ca6d7abb
+Built from commit: 20be47c69bdffe73c42bff07a3044d1f6c5af774
