@@ -156,7 +156,7 @@
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
-    "version": 13,
+    "version": 14,
     "status": 1,
     "language": "en",
     "authors": [
@@ -165,7 +165,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "ThisVid \u2014 CatalogHome + TitleTranslate + /search/{n}/ pagination + session get_file \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
+    "description": "ThisVid \u2014 skip friends-only private cards + /search/{n}/ pagination + session get_file \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
