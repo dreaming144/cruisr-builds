@@ -37,7 +37,7 @@
     "name": "EPornerGay",
     "internalName": "EPornerGay",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/EPornerGay.cs3",
-    "version": 16,
+    "version": 17,
     "status": 1,
     "language": "en",
     "authors": [
@@ -156,7 +156,7 @@
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ThisVid.cs3",
-    "version": 15,
+    "version": 16,
     "status": 1,
     "language": "en",
     "authors": [
@@ -165,7 +165,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "ThisVid \u2014 skip friends-only private cards + WebView age-gate + /search/{n}/ pagination + session get_file \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
+    "description": "ThisVid \u2014 gay-newest Latest + gay category tiles + gay-prefixed search \u2014 skip friends-only private cards + WebView age-gate \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10)",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -224,7 +224,7 @@
     "name": "Yaoi",
     "internalName": "Yaoi",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
-    "version": 10,
+    "version": 11,
     "status": 1,
     "language": "en",
     "authors": [
@@ -241,7 +241,7 @@
     "name": "Motherless",
     "internalName": "Motherless",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Motherless.cs3",
-    "version": 3,
+    "version": 4,
     "status": 1,
     "language": "en",
     "authors": [
@@ -275,7 +275,7 @@
     "name": "Hanime",
     "internalName": "Hanime",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Hanime.cs3",
-    "version": 4,
+    "version": 5,
     "status": 1,
     "language": "en",
     "authors": [
@@ -292,7 +292,7 @@
     "name": "TNAFlix",
     "internalName": "TNAFlix",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/TNAFlix.cs3",
-    "version": 12,
+    "version": 13,
     "status": 1,
     "language": "en",
     "authors": [
