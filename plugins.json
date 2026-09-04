@@ -224,7 +224,7 @@
     "name": "Yaoi",
     "internalName": "Yaoi",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Yaoi.cs3",
-    "version": 12,
+    "version": 14,
     "status": 1,
     "language": "en",
     "authors": [
@@ -233,7 +233,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Yaoi \u2014 WebView CF bypass + BL Popular Categories text tiles + Zhentube/Xvideos",
+    "description": "Yaoi \u2014 Zhentube Shounen Ai/Gay rows + BL backends + CF bypass",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -275,7 +275,7 @@
     "name": "Hanime",
     "internalName": "Hanime",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/Hanime.cs3",
-    "version": 6,
+    "version": 9,
     "status": 1,
     "language": "en",
     "authors": [
@@ -284,7 +284,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "Hanime \u2014 same-origin browse/hentai-tags JSON + WebView CF bypass (search hosts NXDOMAIN)",
+    "description": "Hanime \u2014 general tag rows + Yaoi/Bara/Trap extras + unscoped search",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -309,7 +309,7 @@
     "name": "HentaiMama",
     "internalName": "HentaiMama",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HentaiMama.cs3",
-    "version": 9,
+    "version": 11,
     "status": 1,
     "language": "en",
     "authors": [
@@ -318,7 +318,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "HentaiMama \u2014 series-card selectors + WebView CF bypass + CatalogHome",
+    "description": "HentaiMama \u2014 dt_embed loadLinks + live /genre/ rows + CF bypass",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
@@ -326,7 +326,7 @@
     "name": "HStream",
     "internalName": "HStream",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/HStream.cs3",
-    "version": 6,
+    "version": 10,
     "status": 1,
     "language": "en",
     "authors": [
@@ -335,7 +335,24 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "HStream \u2014 WebView CF bypass + CatalogHome + CSRF player/api",
+    "description": "HStream \u2014 general hentai sorts/tags + listing posters + CF bypass",
+    "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
+    "apiVersion": 1
+  },
+  {
+    "name": "ZhenTube",
+    "internalName": "ZhenTube",
+    "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/ZhenTube.cs3",
+    "version": 3,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "cruisr"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "description": "ZhenTube \u2014 general zhentube.com catalog + FirePlayer loadLinks + CF bypass",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   }

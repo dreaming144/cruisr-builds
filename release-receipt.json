@@ -1,9 +1,9 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "ddba339e64ba986cd8e034af5d471a08fff0fc33",
+  "sourceSha": "beeb4f92eb6a5acb08ccbe403addd2a7a9760aa0",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
-  "artifactCount": 20,
+  "artifactCount": 21,
   "artifacts": [
     {
       "name": "BoyfriendTV.cs3",
@@ -27,15 +27,15 @@
     },
     {
       "name": "HStream.cs3",
-      "sha256": "082beaeb479bf2c747e389e26ded3b226a6bcc8da9705ebe704f768016a8799d"
+      "sha256": "d7a68d28cc2876f1bbde36accf91bce494c8b832506cede4ee83ba2c0f738569"
     },
     {
       "name": "Hanime.cs3",
-      "sha256": "8cb2e2559bb156913c62af7c014e9511df0fdb3668aaa85caf6a9f35cdde7e19"
+      "sha256": "a34438b01c8d8e7a179562b2c4a77f36060aaf0bdc43fd8884a9a51752c3efd6"
     },
     {
       "name": "HentaiMama.cs3",
-      "sha256": "888237f5ab3c64b927b341d583303ceea0d43bc276bf5d2359cd268755329370"
+      "sha256": "d99acacb7aa00120ef11e17f6c6ae727db586b53b4698e044cfd278f391551fd"
     },
     {
       "name": "Homo.cs3",
@@ -83,8 +83,12 @@
     },
     {
       "name": "Yaoi.cs3",
-      "sha256": "22c101d7f31099811e0297328896dcb88652c4d0e78c67cc98caad2124e8113e"
+      "sha256": "d69fa4168381aa313329924d4360bff0c5be0c4c7e12c9a253fcd5c47e34056a"
+    },
+    {
+      "name": "ZhenTube.cs3",
+      "sha256": "df9314b282e43e6268f8c27bf5fa7d7332168c5bc568cf1a29ae97be48e5b389"
     }
   ],
-  "publishedAt": "2026-09-04T20:01:10Z"
+  "publishedAt": "2026-09-04T21:53:36Z"
 }
