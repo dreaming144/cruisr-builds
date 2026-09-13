@@ -1,94 +1,94 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "ff1d6e59677b949f482d0b4199f9fcfc9d5a1747",
+  "sourceSha": "ef310b4f4bcfe601b0c92282ff7ebf031b37979c",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
   "artifactCount": 21,
   "artifacts": [
     {
       "name": "BoyfriendTV.cs3",
-      "sha256": "b1bdff9f48ee7db831ed9892cc64ec41948537c99601e293adb4398a45e95d93"
+      "sha256": "976ec8fa22b5394666bee2e85daaf611d2a5734de2f678b7ed9dd019cd8fbddb"
     },
     {
       "name": "EPornerGay.cs3",
-      "sha256": "5443bc42c92742e698a7c94dc42a209bd668bf04fd2db9abb3773922f94936bb"
+      "sha256": "548d13dbf40b4236ef9f1514a7399950e0043b816476d6cce77d9401c5cd9b88"
     },
     {
       "name": "Gay0Day.cs3",
-      "sha256": "f1d8c8cb916bd60419ea2943fa6212ca9fddfb1d31cae0bf68a34c2159c94723"
+      "sha256": "7f2ff2d81c39e30299e35e6e1a84999eebc4e9ec1758dca5060a2cd932b5efb3"
     },
     {
       "name": "GayMaleTube.cs3",
-      "sha256": "7f8fd0479f927ccc637587df8c32292da19f27960ecd4f118361d3bf6d47f2d9"
+      "sha256": "603e0c926bd5160a527a38b764d3fdb4320b907c8a0fea0ee7580ca47fe01ea0"
     },
     {
       "name": "GayStream.cs3",
-      "sha256": "5b870de7fd37127bc757506f3b9e19cd4daade7460554007d10a12c773e445b0"
+      "sha256": "d6b7bb9a9a261ff1dc9e1a8c0bb8f9c860d4b56b940e6e0df6213ff09048e95c"
     },
     {
       "name": "HStream.cs3",
-      "sha256": "7f72efca54c3d13b99f9c1054c49233f7f85248e9ffac249182c0e215be6aaef"
+      "sha256": "d66682d48328fdf7c9a7818199f1791155cb77a0785daa9f73d7a8233c671958"
     },
     {
       "name": "Hanime.cs3",
-      "sha256": "19017125dc59b919c13f05534d4747d9b096bb9b4cf18181ebb859dbb85ba069"
+      "sha256": "7e237b3a53425eb41e89d90fe9829b170c0fe4d42acbb68282e7f7158268cbb9"
     },
     {
       "name": "HentaiMama.cs3",
-      "sha256": "661af302c07d2d50ebc10f2ad353506218e4247fc14a598dcfc6884c965b7f53"
+      "sha256": "5ba2996d04054d5ce5306de4a437e0e8ac3f819dd371bba79833b402f4330d36"
     },
     {
       "name": "Homo.cs3",
-      "sha256": "a2db3a07631b0bc4f6181ce6b203a7dad6460ffbf968f3fca603972ccdc493d0"
+      "sha256": "b134fa960bb1b1b8942eb857219dc2788113cca5caa5ec4f7cb163a774a0add4"
     },
     {
       "name": "IceGayTube.cs3",
-      "sha256": "03f0b5793ea1fed74115700295e3ed10edc0adc413f0e00eae3b5a71b03070a2"
+      "sha256": "da5434f68f09e1a97d6e8e45abe16edfc44c462ca3e44d1ea30abecd7b8d02e2"
     },
     {
       "name": "JustTheGays.cs3",
-      "sha256": "df6c9f420a956b0c196ae2fef17d46ef89514a8a88ce3d679c13a0a437eb914e"
+      "sha256": "d416ace8854817f336b7baac8c67bd0ede9097a0518893c4daa53b1c08c30f03"
     },
     {
       "name": "MachoTube.cs3",
-      "sha256": "12ad2b79a164068590a311e7592a6c19dc452b4bb2a2ecab4edbec7606556c90"
+      "sha256": "9cb55e9dd0587acb7147455ad4f72d0092b4d2b50a2fe3de3a03c48f3b5affb9"
     },
     {
       "name": "ManSurfer.cs3",
-      "sha256": "3399391e212d0f515fc4c27f26cd9ebf383ed226418dad58ac155396f74f4373"
+      "sha256": "f7b093fc50e0da6b9cd8f8377577c0a38ad3a651402f4ad1bb8bc34cca4232c7"
     },
     {
       "name": "Motherless.cs3",
-      "sha256": "6e0314f4362e3d7d8ee526acfe91445cd0ac1bd424d42dac391d199dd113fb9e"
+      "sha256": "6f13cec9d951951b541f31b856d8ae78086de3adbbd7dc7737c1ed368d139340"
     },
     {
       "name": "SpankBangGay.cs3",
-      "sha256": "b082d021992016b656d16902c36625f1c6f6ee5afaac0bc1a50279518b8e5ddf"
+      "sha256": "5be5547df7bcab85b911635d981d5715c21a84af1b8c69f6d6766315776ccd50"
     },
     {
       "name": "TNAFlix.cs3",
-      "sha256": "39db878e4143612a36966a630becfcd304d5c0df1fb5ddd198581f0c0882931d"
+      "sha256": "b3e24db5e2e86315b25407532479c7211eea4d14a20a14baa47b19db8af0ce18"
     },
     {
       "name": "ThisVid.cs3",
-      "sha256": "84183c070df6430a7e0e9de08676cd0fe188ffa7fe1007fb659fe739fcbd23f4"
+      "sha256": "8c36734b300e8c278898976d9af5df63fe5defc9b8251b61afd6e8ff69772e68"
     },
     {
       "name": "XnxxGay.cs3",
-      "sha256": "e3b18e6439d4e2f9dfc53f564ad1169ed426fb05cd2d346283d3cd159fad3520"
+      "sha256": "ec5053845b43aee2e531fd290d2301d091c155b8ae09d25b24b766ad56d0807d"
     },
     {
       "name": "XvideosGay.cs3",
-      "sha256": "1746190997720352582d413cd6cafc71f452027ac1443231e611d31a528b0193"
+      "sha256": "43cc9c89b01e32bbe2b3e8cbbaaf0ba33d4c5e44ced2441bc58e99e80e372543"
     },
     {
       "name": "Yaoi.cs3",
-      "sha256": "10c70f1ad84010fa6b94bc79afe6a97ccad11f9c29105ddeed22a5c8b8798437"
+      "sha256": "c9ad45a593cdaac610b2798e4bd76aed323f2a55eae29e243b9ef7638e41b114"
     },
     {
       "name": "ZhenTube.cs3",
-      "sha256": "845b3ce25acc763ca70337dc0835d5a698e814ce4ab4ecb14168159c9ded64ad"
+      "sha256": "ec1328e0ec812dcbde5801bfdbf12aa0844328c0ff0c6b85ff791077ff839ff4"
     }
   ],
-  "publishedAt": "2026-09-12T02:06:19Z"
+  "publishedAt": "2026-09-13T16:54:09Z"
 }
