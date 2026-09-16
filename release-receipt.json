@@ -1,6 +1,6 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "a535d11419ebab03d20b6e2ed57b76af7329d8cd",
+  "sourceSha": "2196b36cbb5ffcce7629396462e1df0cc3c6bc54",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
   "artifactCount": 21,
@@ -35,7 +35,7 @@
     },
     {
       "name": "HentaiMama.cs3",
-      "sha256": "29c2e7ab067850db60bc88c60da6c6a36229a308bf1011e8c0e8a6d18fddee0d"
+      "sha256": "6bd609dd115e4da4dc30890b8e9f528e4cb2f9d705aafa7196fe56b810de0473"
     },
     {
       "name": "Homo.cs3",
@@ -83,12 +83,12 @@
     },
     {
       "name": "Yaoi.cs3",
-      "sha256": "ebf5ab47295a0266366323a5418b48f53b87dba63f059d31662bd8856305c5cb"
+      "sha256": "7a7596ea28178c2ef6792202a95c4479e98c769ab10c18a79d24f3c535d4a9e2"
     },
     {
       "name": "ZhenTube.cs3",
-      "sha256": "7795a3be1ca1dbaf3c33f2f208a06bb1cba133ec9e3bf689130870da80f4f451"
+      "sha256": "fc377253b765d16ff5ea5400e0f4dbe0546cc7f71f6cd779e7675b1f9045ae10"
     }
   ],
-  "publishedAt": "2026-09-14T08:33:03Z"
+  "publishedAt": "2026-09-16T11:57:38Z"
 }
