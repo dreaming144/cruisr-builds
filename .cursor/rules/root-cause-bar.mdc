@@ -1,0 +1,13 @@
+---
+alwaysApply: true
+---
+
+## Root cause bar
+
+Hard rules for bugs, regressions, and "why is this broken" work:
+
+1. Do not propose a fix until you have named a **single root cause** with evidence (log line, failing assertion, bisect commit, or reproduction output).
+2. Prefer: reproduce → isolate (bisect / log / failing test) → prove cause → smallest fix → re-verify.
+3. "It works now" is not enough — say what broke and why in the PR body.
+4. No speculative multi-fix PRs; one hypothesis at a time.
+5. For hard bugs, follow a Diagnosing Bugs loop: build a tight red-capable feedback loop before hypothesizing.
