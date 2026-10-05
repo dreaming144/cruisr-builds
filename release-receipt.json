@@ -1,6 +1,6 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "67e6bbe17ca2ba2bd5efd57e54a60822d854edc0",
+  "sourceSha": "3f45ffec449653af0aaf2da3e612e6cfe93cb0f5",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
   "artifactCount": 21,
@@ -71,7 +71,7 @@
     },
     {
       "name": "ThisVid.cs3",
-      "sha256": "9b8a427c8128d942e476d2ac779c43f3da02546e86d9900286555709da55419a"
+      "sha256": "c92d00a73ed962e98598fa1e361fcdc73d8cbde70964f47f2907365407224880"
     },
     {
       "name": "XnxxGay.cs3",
@@ -90,5 +90,5 @@
       "sha256": "fc377253b765d16ff5ea5400e0f4dbe0546cc7f71f6cd779e7675b1f9045ae10"
     }
   ],
-  "publishedAt": "2026-10-02T01:30:29Z"
+  "publishedAt": "2026-10-05T23:54:30Z"
 }
