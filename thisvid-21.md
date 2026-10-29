@@ -1,10 +1,10 @@
-# ThisVid 24 (pre-merge sideload)
+# ThisVid 25 (pre-merge sideload)
 
-Not published to `main`. Add this repository on the projector for PR 87.
+Not published to `main`. Add this repository on the projector for PR 88.
 
 - Add repository: https://raw.githubusercontent.com/dreaming144/cruisr-builds/test/thisvid-21/repo.json
 - ThisVid `.cs3`: https://raw.githubusercontent.com/dreaming144/cruisr-builds/test/thisvid-21/ThisVid.cs3
-- sha256: `b067faf32fd3c3482d28db06bf91fa4f10d279da14c6fc7d4fb288129afcfad4`
-- `manifest.json` / `plugins.json` version: 24
-- Source: dreaming144/cruisr `#87` branch `cursor/thisvid-agego-cookie-0eaa` tip `ec8e71d0cc5c9a5c700220a02879a10a23fad868`
-- Paste-only AgeGO cookie in ThisVid plugin settings. Simple KVS overlay still uses HTTP `kt_agecheck`. No WebView, no Google login.
+- sha256: `bf0fc2d3ede25240d6d1d01bfb58f05622e1bfee963256c15a347d14ec5eb3af`
+- `manifest.json` / `plugins.json` version: 25
+- Source: dreaming144/cruisr `#88` branch `cursor/thisvid-https-cookie-93a2` tip `75f7ca8ed7ebabff5b2b7387650f77557d099789`
+- AgeGO session cookie is sent only to thisvid.com over HTTPS. HTTP thisvid.com 301s drop the cookie. No WebView, no Google login.
