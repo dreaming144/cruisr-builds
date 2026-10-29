@@ -156,7 +156,7 @@
     "name": "ThisVid",
     "internalName": "ThisVid",
     "url": "https://raw.githubusercontent.com/dreaming144/cruisr-builds/test/thisvid-21/ThisVid.cs3",
-    "version": 23,
+    "version": 24,
     "status": 1,
     "language": "en",
     "authors": [
@@ -165,7 +165,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "description": "ThisVid \u2014 gay-newest Latest + gay category tiles + gay-prefixed search \u2014 skip friends-only private cards + AgeGO fail-fast (no WebView) \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10) + page/player subtitles",
+    "description": "ThisVid \u2014 gay-newest Latest + gay category tiles + gay-prefixed search \u2014 skip friends-only private cards + AgeGO fail-fast (no WebView) + paste-only AgeGO cookie setting \u2014 Moods & Scenarios theme rows (Nuvio 1.6.10) + page/player subtitles",
     "repositoryUrl": "https://github.com/dreaming144/cruisr-builds",
     "apiVersion": 1
   },
