@@ -3,6 +3,6 @@
   "description": "Extension collection for CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/dreaming144/cruisr-builds/main/plugins.json"
+    "https://raw.githubusercontent.com/dreaming144/cruisr-builds/test/thisvid-21/plugins.json"
   ]
 }
