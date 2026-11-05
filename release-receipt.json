@@ -1,6 +1,6 @@
 {
   "sourceRepository": "dreaming144/cruisr",
-  "sourceSha": "9a3b0c791090cadee27d02894ff542fa9e15f196",
+  "sourceSha": "0fdbf729b45e5be6c14e1e979c175fe56ba1e906",
   "targetRepository": "dreaming144/cruisr-builds",
   "targetBranch": "main",
   "artifactCount": 20,
@@ -15,7 +15,7 @@
     },
     {
       "name": "Gay0Day.cs3",
-      "sha256": "b0c48022d3b7c51b9209977221bdc010181d3f6dbd83795645c7a3c4d455bd4a"
+      "sha256": "c6e070205aa38daf9241fa05d4afb2d234a117d423078c91e435f45324748ef9"
     },
     {
       "name": "GayMaleTube.cs3",
@@ -39,23 +39,23 @@
     },
     {
       "name": "Homo.cs3",
-      "sha256": "5292ef9b335309f0afd01c38af40c98aa854df159dfb74b94ef8c4de20497853"
+      "sha256": "56a75ed4b9aa28fb14c12f186e30d47e99a7cf26ac5b3eb8cd6c1ac1020584d9"
     },
     {
       "name": "IceGayTube.cs3",
-      "sha256": "eaa4cf34b0270fba655fa10af6fb08f89139376d217bcb3e82328fd79c9be3f4"
+      "sha256": "46f27f56e7a5531a87f51ea5fb91d998ef67a5d47a317de07bcbbf6d4301473b"
     },
     {
       "name": "JustTheGays.cs3",
-      "sha256": "7b4b448761cc258916928447999e5b0ab5673aa790d74021b21f1d5e47687a9e"
+      "sha256": "7a32b8b85cb8a147656620ada2a9ada1f3aca091e9f5f6f105e43a92da136820"
     },
     {
       "name": "MachoTube.cs3",
-      "sha256": "4f3e1568cd356eeeb9a95798cb433bc09ddc2b3988485f9b199c4bbaed738b93"
+      "sha256": "b18b9be5c61f9fc94d325fff7b575083d868368aa9c401c6b2177e23188397da"
     },
     {
       "name": "ManSurfer.cs3",
-      "sha256": "6571f638f453c8cd1c677380f28b7f1808f001e59fb176395e700866d0086694"
+      "sha256": "1468ae50ca63e9115ff339572703039992d59d4a0159212c27947c98bd51d775"
     },
     {
       "name": "SpankBangGay.cs3",
@@ -71,11 +71,11 @@
     },
     {
       "name": "XnxxGay.cs3",
-      "sha256": "3a335a807584b06a8673662d479287b23a863580b69aac99893614cf73f9fe67"
+      "sha256": "d7cd26dd9c080c8d33c173ae294852743f58369679eedc91a2df82be05587838"
     },
     {
       "name": "XvideosGay.cs3",
-      "sha256": "e2b095cc1a43569193f1f4fa8f383638f787ca424c5062bdc8bfbfcc3f4c2d3b"
+      "sha256": "31b8d952e21386c67017e40acc82abd61aba9b5d4ac69fda3c59f3c62fcbd023"
     },
     {
       "name": "Yaoi.cs3",
@@ -86,5 +86,5 @@
       "sha256": "b278a0c3174152ca97c89a9b9898d96a93d633edbb775394d415ee175b5f3433"
     }
   ],
-  "publishedAt": "2026-10-31T20:25:35Z"
+  "publishedAt": "2026-11-05T12:35:53Z"
 }
